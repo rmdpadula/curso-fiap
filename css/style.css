@@ -1,0 +1,27 @@
+*{
+    color: #003554;
+}
+
+.container-header{
+    background-color: #DDDBCB;
+}
+
+.bg_body{
+    background-color: #F5F1E3;
+}
+
+h1{
+    color: #003554;
+
+}
+
+.btn_padding{
+    background-color: #53917E;
+    border: none;
+    border-radius: 0.2cm;
+}
+
+.inputs_padding{
+    padding: 5px;
+}
+
